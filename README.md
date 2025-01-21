@@ -26,3 +26,5 @@ python main.py test.txt example.txt
 ```
 7145    58164   332147  test.txt
 ```
+
+> Disclaimer: This README is entirely generated using AI. No source code was generated using AI.
